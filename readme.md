@@ -1,6 +1,6 @@
 # Simple QR Code generation with a logo
 
-There are many open-source packages that support QR code generation, but people still pay for a subscription to add a logo. This tiny project helps people to get a simple QR code with a logo for free in no time. It is based on Node.js and express framework, but we only used the most basic functionalities. Take a look at this open-source project [qrcodejs](https://github.com/davidshimjs/qrcodejs) to customize the qrcode yourself.
+There are many open-source packages that support QR code generation, but people still pay for a subscription to add a logo. This tiny project helps people to get a simple QR code with a logo for free in no time. It is based on Node.js and express framework, but we only use the most basic functionalities. Take a look at this open-source project [qrcodejs](https://github.com/davidshimjs/qrcodejs) to customize the qrcode yourself.
 
 ## Get Started
 
@@ -18,3 +18,8 @@ node server.js
 4. Replace the image and URL in `/scripts/script` for your project.
 
 Done.
+
+The generated QR code should look like this:
+<p align="center">
+<img src="public/QR.png" alt="QR Code Generated" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+</p>
