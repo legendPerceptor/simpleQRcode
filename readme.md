@@ -6,7 +6,7 @@ There are many open-source packages that support QR code generation, but people 
 
 If you don't want the trouble to understand how it works but just want a QR code, do the following.
 
-1. Install Node.js properly
+1. Install Node.js properly by following [this official guide](https://nodejs.org/en/download/package-manager).
 2. Run the following two lines of commands in your terminal
 
 ```bash
